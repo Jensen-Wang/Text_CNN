@@ -9,5 +9,5 @@
 * word2vec
 * glove
 * 也可以设置单通道-默认word2vec  
-
+******************************
 ![Text-CNN](https://github.com/huangqianfei0916/Text_CNN/blob/master/1%20.jpg)
